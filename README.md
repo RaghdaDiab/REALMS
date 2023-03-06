@@ -1,2 +1,3 @@
 # REALMS
 REal Arabic Language Mistakes in Spelling (REALMS) dataset. 
+REal Arabic Language Mistakes in Spelling (REALMS) is a dataset collected by Raghda Diab Hasan. REALMS was collected from different sources of social media platforms like Facebook and Twitter. The collected texts contain many spelling mistakes by different people. To prepare the dataset, a new column was added to correct the erroneous texts from punctuations mistakes, remove English words, and clean any none-Arabic characters. Additionally, regarding the slang words, they were corrected in both the input and target columns. Finally, the dataset is composed of 4994 sequences in total which are divided into: train set that is composed of 4123 sequence, and test set that is composed of 871 sequences.
